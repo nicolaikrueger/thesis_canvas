@@ -15,3 +15,4 @@ If you are an IU student, you might find interest in some of the following resea
 
 ## Innovation & Society
 - Longitutional study of WirvsVirus hackathon
+- Open Source in der öffentlichen Verwaltung. Status Quo in Deutschland
