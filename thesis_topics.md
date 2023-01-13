@@ -17,3 +17,4 @@ If you are an IU student, you might find interest in some of the following resea
 - Longitutional study of WirvsVirus hackathon
 - Open Source in der öffentlichen Verwaltung. Status Quo in Deutschland
 - Automation (RPA, iPaaS, etc.) in Academia
+- HMI / User Experience of Auphonic Children's Devices (tonies etc.)
