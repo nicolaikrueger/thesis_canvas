@@ -2,6 +2,13 @@
 
 If you are an IU student, you might find interest in some of the following research areas of mine. Reach out to me, in order to apply for supervison of your thesis. Generally I supervise students in business courses with a very digital / technical focus OR students in IT / information systems / computer science with focus on digital innovation, transformation and (corporate) entrepreneurship.
 
+## Applied Artificial Intelligence
+- Integration of ChatGPT in business applications
+- Potential of generative AI (beyond text...)
+- Applied AI Approaches
+- AI-driven business models
+- AI and the intersection of models, nocode, lowcode and procode
+
 ## Digital Business, Digital Finance and Banking incl. Web3 / Crypto
 - Open Banking / PSD2 / API Business Models in Finance
 - DeFi Design Patterns
@@ -10,11 +17,6 @@ If you are an IU student, you might find interest in some of the following resea
 - Defi Taxonomy
 - Digital Business Models
 - Digital Transformation
-
-## Applied Artificial Intelligence
-- Applied AI Approaches
-- AI-driven business models
-- AI and the intersection of models, nocode, lowcode and procode
 
 ## Innovation & Society
 - Longitutional study of WirvsVirus hackathon
