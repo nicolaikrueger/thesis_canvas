@@ -1,4 +1,4 @@
-# Open topics for bachelor/master thesis
+# Open topics for bachelor/master/PhD thesis
 
 If you are an IU student, you might find interest in some of the following research areas of mine. Reach out to me, in order to apply for supervison of your thesis. Generally I supervise students in business courses with a very digital / technical focus OR students in IT / information systems / computer science with focus on digital innovation, transformation and (corporate) entrepreneurship.
 
