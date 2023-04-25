@@ -17,6 +17,7 @@ You might find interest in some of the following research areas of mine. Reach o
 - Defi Taxonomy
 - Digital Business Models
 - Digital Transformation
+- eCommerce and the European Payment Initiative (EPI)
 
 ## Innovation & Society
 - Longitutional study of WirvsVirus hackathon
@@ -24,3 +25,4 @@ You might find interest in some of the following research areas of mine. Reach o
 - Automation (RPA, iPaaS, etc.) in Academia
 - HMI / User Experience of Auphonic Children's Devices (tonies etc.)
 - Agile Innovation Patterns
+- Necrobotics
