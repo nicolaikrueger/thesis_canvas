@@ -26,3 +26,4 @@ You might find interest in some of the following research areas of mine. Reach o
 - HMI / User Experience of Auphonic Children's Devices (tonies etc.)
 - Agile Innovation Patterns
 - Necrobotics
+- Retrospective on Corona Warning Applications
