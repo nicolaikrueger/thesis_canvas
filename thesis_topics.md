@@ -23,6 +23,7 @@ You might find interest in some of the following research areas of mine. Reach o
 - Defi Taxonomy (in progress)
 - Digital Business Models
 - Digital Transformation
+- Implications of the German legislation for electronic invoice data exchange (XML-based invoicing, ZUGFeRD, etc.) 
 
 ## Innovation & Society
 - Apple Vision E-Commerce features
