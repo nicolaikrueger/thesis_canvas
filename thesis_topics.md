@@ -27,6 +27,7 @@ You might find interest in some of the following research areas of mine. Reach o
 - Implications of the German legislation for electronic invoice data exchange (XML-based invoicing, ZUGFeRD, etc.) 
 
 ## Innovation & Society
+- Embracing Discomfort: A Study on Motion Sickness Tolerance in Spatial Computing Adoption
 - Apple Vision E-Commerce features
 - Longitutional study of WirvsVirus hackathon
 - Open Source in der öffentlichen Verwaltung. Status Quo in Deutschland
