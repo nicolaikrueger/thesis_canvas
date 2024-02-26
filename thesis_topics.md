@@ -3,6 +3,7 @@
 You might find interest in some of the following research areas of mine. Reach out to me, in order to apply for supervison of your thesis. Generally I supervise students in business courses with a very digital / technical focus OR students in IT / information systems / computer science with focus on digital innovation, transformation and (corporate) entrepreneurship.
 
 ## Applied Artificial Intelligence
+- The Digital Interviewer: Evaluating the Effectiveness of Chatbots as Questionnaire Alternatives
 - AI-enhanced operating systems and new HMI (like R1)
 - Potential of E-Commerce hyperpersonalization through generative AI
 - Towards an AI-driven Service-E-Commerce-Platform
