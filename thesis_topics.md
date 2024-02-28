@@ -15,6 +15,7 @@ You might find interest in some of the following research areas of mine. Reach o
 - AI and the intersection of models, nocode, lowcode and procode
 
 ## Digital Business, Digital Finance and Banking incl. Web3 / Crypto
+- Is LCNC Transforming the MVP Approach in Digital Innovation?
 - E-Commerce and the European Payment Initiative (EPI)
 - Open Banking / PSD2 / API Business Models in Finance
 - Evaluation of PSD2 success
