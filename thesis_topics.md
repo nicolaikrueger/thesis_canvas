@@ -14,6 +14,11 @@ You might find interest in some of the following research areas of mine. Reach o
 - AI-driven business models
 - AI and the intersection of models, nocode, lowcode and procode
 
+## E-Government
+- E-Government and Data Protection: Design and Implementation of a Public Webcam Service within the Framework of GDPR Compliance Using the Example of Public Pool Webcams
+- Topics along Interoperable Europe
+*(Many more topics are to come, just get in touch with me, as I am adopting my research pipeline)*
+
 ## Digital Business, Digital Finance and Banking incl. Web3 / Crypto
 - Is LCNC Transforming the MVP Approach in Digital Innovation?
 - E-Commerce and the European Payment Initiative (EPI)
