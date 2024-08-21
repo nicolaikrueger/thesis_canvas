@@ -1,11 +1,13 @@
 # Open Topics for Bachelor/Master/PhD Theses
 
-If you're passionate about cutting-edge research in the intersection of digital innovation, public administration, and applied AI, consider the following areas for your thesis. I invite you to reach out to discuss supervision opportunities. My expertise lies in guiding students from business disciplines with a strong digital/technical focus, as well as those in IT, information systems, and computer science with a concentration on applied AI / implementation of AI-services.
+If you're passionate about cutting-edge research at the intersection of digital innovation, public administration, and applied AI, consider the following areas for your thesis. I invite you to reach out to discuss supervision opportunities. My expertise lies in guiding students from business disciplines with a strong digital/technical focus, as well as those in IT, information systems, and computer science with a concentration on applied AI and the implementation of AI services.
 
 This document also includes topics previously offered at IU, serving as a source of inspiration for both current and former students. Explore these topics as a springboard for your academic journey.
 
 **How to Use This Document**
 My research interests stem from a blend of curiosity, interdisciplinary connections, and the pursuit of emerging trends. As such, this list encompasses topics at various stages of development, catering to students at different academic levels, from bachelor’s to PhD. Rather than a static catalog, consider this a living document—a starting point for discussions on how you might align your research with my ongoing work.
+
+**How to Approach Me** If you want to apply for thesis supervision, many students have appreciated the easy and smooth process of using a canvas (as a modern alternative to the traditional exposé). Use the provided [german template](https://github.com/nicolaikrueger/thesis_canvas/blob/main/Thesis%20Design%20Canvas%20-%20DE.jpg) or [english template](https://github.com/nicolaikrueger/thesis_canvas/blob/main/Thesis%20Design%20Canvas%20-%20EN.jpg) and reach out to me via the [HSPV channels](https://www.hspv.nrw.de/organisation/personalverzeichnis/eintrag/dr-nicolai-krueger).
 
 ## E-Government (Focus on "Verwaltungsinformatik" at HSPV)
 - **E-Government and Data Protection:** Design and Implementation of a Public Webcam Service within the Framework of GDPR Compliance Using the Example of Public Pool Webcams.
