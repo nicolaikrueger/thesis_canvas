@@ -7,10 +7,11 @@ This document also includes topics previously offered at IU, serving as a source
 **How to Use This Document**
 My research interests stem from a blend of curiosity, interdisciplinary connections, and the pursuit of emerging trends. As such, this list encompasses topics at various stages of development, catering to students at different academic levels, from bachelor’s to PhD. Rather than a static catalog, consider this a living document—a starting point for discussions on how you might align your research with my ongoing work.
 
+If you have no clue what you are looking at, start again in the [readme section](https://github.com/nicolaikrueger/thesis_canvas/tree/main) of this repo, especially the explanatory videos with a [short Insta Reel](https://www.instagram.com/reel/C-98RDWNE_B/) and a longer [TikTok video](https://www.tiktok.com/@nicolaikrueger/video/7405870738902666529).
+
 **How to Approach Me** If you want to apply for thesis supervision, many students have appreciated the easy and smooth process of using a canvas (as a modern alternative to the traditional exposé). Use the provided [german template](https://github.com/nicolaikrueger/thesis_canvas/blob/main/Thesis%20Design%20Canvas%20-%20DE.jpg) or [english template](https://github.com/nicolaikrueger/thesis_canvas/blob/main/Thesis%20Design%20Canvas%20-%20EN.jpg) and reach out to me via the [HSPV channels](https://www.hspv.nrw.de/organisation/personalverzeichnis/eintrag/dr-nicolai-krueger).
 
 ## E-Government (Focus on "Verwaltungsinformatik" at HSPV)
-- **E-Government and Data Protection:** Design and Implementation of a Public Webcam Service within the Framework of GDPR Compliance Using the Example of Public Pool Webcams.
 - **Interoperable Europe:** Topics exploring interoperability standards and their implementation within the European Union.
 - **Citizen-Centric AI in Public Administration:** Investigate how AI can be leveraged to enhance user experience in public services, focusing on human-centered design approaches.
 - **Challenges in Implementing the Online Access Act (OZG):** Analyze the barriers to successful OZG implementation and propose potential solutions.
@@ -20,7 +21,8 @@ My research interests stem from a blend of curiosity, interdisciplinary connecti
 - **Crawling Municipal Websites: Feasibility and Challenges:** Evaluate the technical feasibility of crawling and analyzing municipal websites for insights into digital service delivery.
 - **Competency Requirements for Public Sector Digitalization:** An empirical analysis of job postings to identify essential skills for digital transformation in public administration.
 - **EFA Marketplace and Digitalization Dashboard Data Analysis:** A statistical study correlating digitalization efforts with job market trends in the public sector.
-
+- **E-Government and Data Protection:** Design and Implementation of a Public Webcam Service within the Framework of GDPR Compliance Using the Example of Public Pool Webcams.
+  
 *(More topics are forthcoming; please get in touch to discuss how these can evolve alongside my ongoing research.)*
 
 ## Applied Artificial Intelligence
