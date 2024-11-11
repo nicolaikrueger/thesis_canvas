@@ -22,6 +22,7 @@ If you have no clue what you are looking at, start again in the [readme section]
 - **Competency Requirements for Public Sector Digitalization:** An empirical analysis of job postings to identify essential skills for digital transformation in public administration.
 - **EFA Marketplace and Digitalization Dashboard Data Analysis:** A statistical study correlating digitalization efforts with job market trends in the public sector.
 - **E-Government and Data Protection:** Design and Implementation of a Public Webcam Service within the Framework of GDPR Compliance Using the Example of Public Pool Webcams.
+- **Evaluation of Public Warning and Catastrophe Apps in Germany:** Data-driven evaluation of acceptance and diffusion.
   
 *(More topics are forthcoming; please get in touch to discuss how these can evolve alongside my ongoing research.)*
 
