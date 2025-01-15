@@ -32,6 +32,8 @@ Sie können pro Gruppe ein Thema wählen. Abwandlungen sind in Absprache gerne m
 ### 2.3. Schadsoftware-Analyse
 - Realitätsnahe Fallstudien aus der Verwaltung.
 
+### 2.4. Digitale Patientenakte
+
 ---
 
 ## 3. Fachverfahren aus NRW, Bund und Berlin
