@@ -12,6 +12,7 @@ If you have no clue what you are looking at, start again in the [readme section]
 **How to Approach Me** If you want to apply for thesis supervision, many students have appreciated the easy and smooth process of using a canvas (as a modern alternative to the traditional exposé). Use the provided [german template](https://github.com/nicolaikrueger/thesis_canvas/blob/main/Thesis%20Design%20Canvas%20-%20DE.jpg) or [english template](https://github.com/nicolaikrueger/thesis_canvas/blob/main/Thesis%20Design%20Canvas%20-%20EN.jpg) and reach out to me via the [HSPV channels](https://www.hspv.nrw.de/organisation/personalverzeichnis/eintrag/dr-nicolai-krueger).
 
 ## E-Government (Focus on "Verwaltungsinformatik" at HSPV)
+- **Learnings from Government AI in the wildlife**: Data analysis of the [AI transperency register](https://maki.beki.bund.de/a/bmi-makimo-app/tabelle) of the German Government
 - **Interoperable Europe:** Topics exploring interoperability standards and their implementation within the European Union.
 - **Citizen-Centric AI in Public Administration:** Investigate how AI can be leveraged to enhance user experience in public services, focusing on human-centered design approaches.
 - **Challenges in Implementing the Online Access Act (OZG):** Analyze the barriers to successful OZG implementation and propose potential solutions.
