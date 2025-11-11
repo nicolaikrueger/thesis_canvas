@@ -12,6 +12,7 @@ If you have no clue what you are looking at, start again in the [readme section]
 **How to Approach Me** If you want to apply for thesis supervision, many students have appreciated the easy and smooth process of using a canvas (as a modern alternative to the traditional exposé). Use the provided [german template](https://github.com/nicolaikrueger/thesis_canvas/blob/main/Thesis%20Design%20Canvas%20-%20DE.jpg) or [english template](https://github.com/nicolaikrueger/thesis_canvas/blob/main/Thesis%20Design%20Canvas%20-%20EN.jpg) and reach out to me via the [HSPV channels](https://www.hspv.nrw.de/organisation/personalverzeichnis/eintrag/dr-nicolai-krueger).
 
 ## E-Government (Focus on "Verwaltungsinformatik" at HSPV)
+- **i-Kfz-App** user acceptance evaluation
 - **EUID** evaluation, expectations, TAM, etc.
 - **User evaluation of NRWow! AI**
 - **A/B tests of LLMs in the context of eGov tasks**
