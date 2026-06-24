@@ -142,8 +142,9 @@ main { padding: 32px 0 64px; }
 /* Footer */
 .site-footer { border-top: 1px solid var(--line); background: var(--surface); padding: 22px 0; color: var(--muted); font-size: .88rem; }
 .site-footer .wrap { display:flex; justify-content: space-between; gap: 12px; flex-wrap: wrap; align-items:center; }
-.site-footer .disclaimer { display:block; margin-top: 12px; padding-top: 12px; border-top: 1px solid var(--line);
-  font-size: .76rem; line-height: 1.45; color: var(--muted); }
+.disclaimer { display:block; font-size: .8rem; line-height: 1.5; color: var(--muted);
+  background: var(--surface); border: 1px solid var(--line); border-left: 3px solid var(--accent-2);
+  border-radius: 8px; padding: 12px 14px; }
 
 /* Responsive */
 @media (max-width: 860px) {

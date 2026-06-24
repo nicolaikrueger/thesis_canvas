@@ -49,15 +49,7 @@
     (t("process.steps") || []).forEach(function (s) { var li = document.createElement("li"); li.textContent = s; el.appendChild(li); });
   }
 
-  function renderDisclaimer() {
-    var footer = document.querySelector(".site-footer");
-    if (!footer) return;
-    var el = footer.querySelector(".disclaimer");
-    if (!el) { el = document.createElement("div"); el.className = "disclaimer wrap"; footer.appendChild(el); }
-    el.textContent = t("footer.disclaimer");
-  }
-
-  function renderAll() { renderGuide(); renderPrinciples(); renderProcess(); renderDisclaimer(); }
+  function renderAll() { renderGuide(); renderPrinciples(); renderProcess(); }
   document.addEventListener("DOMContentLoaded", function () { wireLinks(); renderAll(); copyButtons(); });
   window.TDC.onLangChange(renderAll);
 })();
