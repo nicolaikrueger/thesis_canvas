@@ -10,7 +10,6 @@ Design principle (no research secrets leak):
 
 Outputs:
 - data/topics.js      -> window.TOPICS  (consumed offline & on GitHub Pages)
-- thesis_topics.md    -> human-readable, bilingual topic list
 
 Usage:  python3 tools/build_topics.py
 Zero third-party dependencies (standard library only).
@@ -23,7 +22,6 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 BASKET = ROOT / "tools" / "basket.json"
 DATA_OUT = ROOT / "data" / "topics.js"
-MD_OUT = ROOT / "thesis_topics.md"
 
 # The private research database lives outside this repo (Cowork environment).
 # Override with --db <path> if it moved.
@@ -127,38 +125,7 @@ def main(argv):
         encoding="utf-8",
     )
 
-    # ---- Emit human-readable bilingual markdown ----
-    by_line = {l["id"]: [] for l in lines}
-    for t in topics:
-        by_line[t["line"]].append(t)
-    md = ["# Offene Themen für Abschlussarbeiten / Open thesis topics", "",
-          "> Automatisch erzeugt aus `tools/basket.json`. Bearbeitung dort, dann `python3 tools/build_topics.py`.",
-          "> Auto-generated from `tools/basket.json`. Edit there, then re-run the generator.",
-          "",
-          "Die Themen sind kuratiert, anonymisiert und nach **Forschungslinien** gruppiert — "
-          "jede Linie zahlt auf ein größeres Forschungsprinzip ein.",
-          "Topics are curated, anonymised and grouped by **research line**.",
-          ""]
-    for l in lines:
-        md.append(f"## {l['de']} — {l['en']}")
-        md.append("")
-        for t in by_line[l["id"]]:
-            de, en = t["de"], t["en"]
-            level = ", ".join(t.get("level", []))
-            md.append(f"### {de['title']} — *{en['title']}*")
-            md.append(f"*{level}* · {', '.join('`'+x+'`' for x in t.get('tags', []))}")
-            md.append("")
-            md.append(de["summary"])
-            md.append("")
-            data_de = t.get("data", {}).get("de")
-            if data_de:
-                md.append(f"**Datenbasis:** {data_de}")
-                md.append("")
-            md.append(f"**Möglicher Zuschnitt:** {de['scope']}")
-            md.append("")
-    MD_OUT.write_text("\n".join(md), encoding="utf-8")
-
-    print(f"OK: wrote {DATA_OUT.relative_to(ROOT)} and {MD_OUT.relative_to(ROOT)} "
+    print(f"OK: wrote {DATA_OUT.relative_to(ROOT)} "
           f"({len(public_topics)} topics, {len(lines)} lines).")
     return 0
 
