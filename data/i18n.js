@@ -23,8 +23,10 @@ window.I18N = {
       scienceTitle: "Die Forschung dahinter",
       scienceBody: "Ich sammle Evidenz, ob Studierende und Betreuende diese Methode dem Exposé vorziehen. Über eine kurze Umfrage (2 Min.) kannst du beitragen.",
       surveyCta: "Zur Umfrage",
-      hspv: "akademische Homepage @HSPV",
-      ec: "Profil: Interoperable Europe (EU)"
+      profileLabel: "Profil von Prof. Dr. Nicolai Krüger:",
+      hspv: "HSPV",
+      ec: "Interoperable Europe",
+      gi: "GI"
     },
 
     process: {
@@ -178,8 +180,10 @@ window.I18N = {
       scienceTitle: "The research behind it",
       scienceBody: "I am gathering evidence on whether students and supervisors prefer this method over the exposé. You can contribute via a short survey (2 min).",
       surveyCta: "Take the survey",
-      hspv: "academic homepage @HSPV",
-      ec: "Profile: Interoperable Europe (EU)"
+      profileLabel: "Profile of Prof. Dr. Nicolai Krüger:",
+      hspv: "HSPV",
+      ec: "Interoperable Europe",
+      gi: "GI"
     },
 
     process: {
@@ -320,6 +324,7 @@ window.LINKS = {
   hspv: "https://www.hspv.nrw.de/organisation/personalverzeichnis/eintrag/dr-nicolai-krueger",
   linkedin: "https://www.linkedin.com/in/nicolaikrueger/",
   ec: "https://interoperable-europe.ec.europa.eu/user/772249",
+  gi: "https://gi.de/ueber-uns/personen/fachleute/detail/nicolai-krueger",
   dataset: "https://github.com/nicolaikrueger/german-municipal-chatbot-dataset",
   survey: "https://docs.google.com/forms/d/e/1FAIpQLSdF1RXTfCpxzwmU9sIjrX9ZBBSFxiNmaAkvTe7v-X1okSRhAg/viewform?usp=sf_link",
   repo: "https://github.com/nicolaikrueger/thesis_canvas"
