@@ -1,0 +1,75 @@
+{
+  "_comment": "Kuratierter, anonymisierter Themen-Basket für Studierende. NUR Themen mit konkreter, benennbarer Datenbasis. Jede Karte ist handgeschrieben (studierendenseitig). 'source' verweist nur zur Provenienz auf eine ID in forschungsideen.json und wird NICHT veröffentlicht; Karten ohne 'source' sind direkt angefragte Ergänzungen. Pflege: siehe UPDATING.md.",
+  "version": "2.1",
+  "research_lines": [
+    { "id": "citizen-ai", "de": "Bürgerzentrierte & souveräne KI in der Verwaltung", "en": "Citizen-centred & sovereign AI in public administration" },
+    { "id": "egov-ozg",   "de": "E-Government, OZG & Interoperabilität",            "en": "E-government, OZG & interoperability" },
+    { "id": "govtech-fin","de": "GovTech-Markt & öffentliche IT",                   "en": "GovTech market & public-sector IT" },
+    { "id": "security",   "de": "Cybersicherheit & Software-Supply-Chain",          "en": "Cybersecurity & software supply chain" }
+  ],
+  "topics": [
+    {
+      "source": "I090", "line": "citizen-ai", "level": ["Bachelor", "Master"], "tags": ["LLM", "Kommunen", "Auffindbarkeit"],
+      "data": { "de": "Offener ADI-Datensatz und Code: 50 Kommunen × 6 Leistungen (eigener Datensatz, derzeit in Publikation).", "en": "Open ADI dataset and code: 50 municipalities × 6 services (own dataset, currently under publication)." },
+      "de": { "title": "Auffindbarkeit kommunaler Leistungen für KI-Assistenten (ADI)", "summary": "Finden LLM-Agenten auf kommunalen Serviceseiten alles, um eine Leistung zu starten? Ein reproduzierbarer Index, über mehrere Kommunen und Leistungen gemessen.", "scope": "Bachelor: Teilmenge an Kommunen/Leistungen auswerten. Master: Index erweitern und validieren." },
+      "en": { "title": "Discoverability of municipal services for AI assistants (ADI)", "summary": "Do LLM agents find everything on municipal service pages to start a service? A reproducible index, measured across municipalities and services.", "scope": "Bachelor: evaluate a subset of municipalities/services. Master: extend and validate the index." }
+    },
+    {
+      "source": "I064", "line": "citizen-ai", "level": ["Bachelor", "Master"], "tags": ["Chatbots", "Kommunen", "Reifegrad"],
+      "data": { "de": "Eigene Chatbot-Erhebung; Fortsetzung eines bestehenden Datenpools und einer Publikation (german-municipal-chatbot-dataset).", "en": "Own chatbot survey; continuation of an existing data pool and publication (german-municipal-chatbot-dataset)." },
+      "de": { "title": "Kommunale Chatbots systematisch erfassen", "summary": "Welche Kommunen setzen Chatbots ein, und wie leistungsfähig sind sie? Erhebung und Reifegrad-Bewertung über die Mitgliedsstädte des Städtetags.", "scope": "Bachelor: Inventar und Kriterienvergleich einer Stichprobe. Master: Reifegrad-Modell und Test-Suite." },
+      "en": { "title": "Systematically mapping municipal chatbots", "summary": "Which municipalities run chatbots, and how capable are they? A survey and maturity assessment across member cities.", "scope": "Bachelor: inventory and criteria comparison of a sample. Master: maturity model and test suite." }
+    },
+
+    {
+      "source": "I013", "line": "egov-ozg", "level": ["Bachelor", "Master"], "tags": ["Deutschland-Stack", "Konsultation", "openCoDE"],
+      "data": { "de": "Konsultationsdaten des Deutschland-Stacks auf openCoDE.de (offen).", "en": "Consultation data of the Germany Stack on openCoDE.de (open)." },
+      "de": { "title": "Konsultation zum Deutschland-Stack auswerten", "summary": "Wer hat sich am Konsultationsprozess beteiligt, welche Themen dominieren, welche Stimmen blieben außen vor?", "scope": "Bachelor: Themen- und Beteiligungsanalyse. Master: Netzwerk- oder Diskursanalyse." },
+      "en": { "title": "Analysing the Germany Stack consultation", "summary": "Who took part in the consultation, which topics dominate, and which voices were left out?", "scope": "Bachelor: topic and participation analysis. Master: network or discourse analysis." }
+    },
+    {
+      "line": "egov-ozg", "level": ["Bachelor", "Master"], "tags": ["Open Data", "EU", "data.europa.eu"],
+      "data": { "de": "Metadaten von data.europa.eu (EU Open Data Portal).", "en": "Metadata from data.europa.eu (EU Open Data Portal)." },
+      "de": { "title": "Europäischen Open-Data-Pool auswerten", "summary": "Was steckt im europäischen Open-Data-Portal, und wie offen und nutzbar sind die Datensätze wirklich?", "scope": "Bachelor: Bestands- und Qualitätsanalyse eines Themenausschnitts. Master: Vergleich über Länder und Sektoren." },
+      "en": { "title": "Analysing the European open-data pool", "summary": "What is in the European open-data portal, and how open and usable are the datasets really?", "scope": "Bachelor: inventory and quality analysis of one topic slice. Master: comparison across countries and sectors." }
+    },
+
+    {
+      "source": "I082", "line": "govtech-fin", "level": ["Bachelor", "Master"], "tags": ["Crawling", "EU", "Tech-Stack"],
+      "data": { "de": "Selbst erhobenes, offenes Crawl-Dataset europäischer Behördendomains (Technology-Fingerprinting).", "en": "Self-collected, open crawl dataset of European government domains (technology fingerprinting)." },
+      "de": { "title": "GovTech in the Wild: Technologien europäischer Behördenwebsites", "summary": "Welche Technologien (CMS, Tracking, Sicherheits-Header, Chatbots) laufen real auf europäischen Behördenwebsites?", "scope": "Bachelor: ein Land oder eine Dimension (z. B. Tracking, DSGVO). Master: Ländervergleich, longitudinal." },
+      "en": { "title": "GovTech in the wild: technologies on European government websites", "summary": "Which technologies (CMS, tracking, security headers, chatbots) actually run on European government websites?", "scope": "Bachelor: one country or one dimension (e.g. tracking, GDPR). Master: cross-country, longitudinal." }
+    },
+    {
+      "source": "I101", "line": "govtech-fin", "level": ["Bachelor", "Master"], "tags": ["GovTech", "Marktkartierung", "Anbieter"],
+      "data": { "de": "Öffentliche Quellen: Anbieter-Websites, Register, Pressemitteilungen.", "en": "Public sources: provider websites, registers, press releases." },
+      "de": { "title": "GovTech-Anbieter in Deutschland kartieren", "summary": "Wer liefert die IT für die öffentliche Verwaltung? Systematische Kartierung von Inhouse-Anbietern, Dienstleistern und Startups.", "scope": "Bachelor: strukturierte Übersicht. Master: Markt- und Konzentrationsanalyse." },
+      "en": { "title": "Mapping GovTech providers in Germany", "summary": "Who supplies IT for public administration? A systematic map of in-house providers, vendors and startups.", "scope": "Bachelor: structured overview. Master: market and concentration analysis." }
+    },
+    {
+      "source": "I017", "line": "govtech-fin", "level": ["Bachelor"], "tags": ["IT-Haushalt", "Städte", "Open Budget"],
+      "data": { "de": "Haushaltspläne und Open-Budget-Daten der größten Städte.", "en": "Budget plans and open-budget data of the largest cities." },
+      "de": { "title": "IT-Anteil an den Haushalten großer Städte", "summary": "Wie viel ihres Haushalts geben große Städte für IT aus, und wie unterscheiden sie sich?", "scope": "Bachelor: Datenrecherche und vergleichende Auswertung." },
+      "en": { "title": "IT share of large cities' budgets", "summary": "How much of their budget do large cities spend on IT, and how do they differ?", "scope": "Bachelor: data research and comparative analysis." }
+    },
+    {
+      "source": "I057", "line": "govtech-fin", "level": ["Master"], "tags": ["Jobmarkt", "OZG", "Kompetenzbedarf"],
+      "data": { "de": "Öffentliche Stellenanzeigen und OZG-Umsetzungsindikatoren.", "en": "Public job postings and OZG implementation indicators." },
+      "de": { "title": "OZG-Stand und Personalbedarf", "summary": "Spiegelt sich der OZG-Umsetzungsstand in Stellenausschreibungen der Verwaltung?", "scope": "Master: Korrelationsanalyse, Kompetenz- und Engpassauswertung." },
+      "en": { "title": "OZG progress and staffing demand", "summary": "Is OZG implementation progress reflected in public-administration job postings?", "scope": "Master: correlation analysis, competence and bottleneck assessment." }
+    },
+    {
+      "line": "govtech-fin", "level": ["Bachelor", "Master"], "tags": ["Open Source", "openCoDE", "EU", "Interoperable Europe"],
+      "data": { "de": "openCoDE.de sowie der EU-Katalog (Interoperable Europe / Joinup).", "en": "openCoDE.de and the EU catalogue (Interoperable Europe / Joinup)." },
+      "de": { "title": "OpenCoDE und der europäische Open-Source-Katalog", "summary": "Welche quelloffene Software teilt die öffentliche Verwaltung, und wie aktiv und nachnutzbar ist sie?", "scope": "Bachelor: Bestandsaufnahme und Aktivitäts-Kennzahlen. Master: Wiederverwendung und Lock-in über Länder." },
+      "en": { "title": "OpenCoDE and the European open-source catalogue", "summary": "Which open-source software does public administration share, and how active and reusable is it?", "scope": "Bachelor: inventory and activity metrics. Master: reuse and lock-in across countries." }
+    },
+
+    {
+      "source": "I078", "line": "security", "level": ["Master"], "tags": ["SBOM", "Supply Chain", "CRA", "KI-VO"],
+      "data": { "de": "SBOM-Dateien (SPDX/CycloneDX) in öffentlichen Repos (GitHub, GitLab, openCoDE).", "en": "SBOM files (SPDX/CycloneDX) in public repos (GitHub, GitLab, openCoDE)." },
+      "de": { "title": "Software-Stücklisten (SBOM) in öffentlichen Repositories", "summary": "Wie transparent sind Abhängigkeiten in öffentlich entwickelter Software, gerade bei KI-Komponenten?", "scope": "Master: automatisierte SBOM-Analyse, Bezug zu CRA und KI-Verordnung." },
+      "en": { "title": "Software bills of materials (SBOM) in public repositories", "summary": "How transparent are dependencies in openly developed software, especially for AI components?", "scope": "Master: automated SBOM analysis, linked to the CRA and the AI Act." }
+    }
+  ]
+}

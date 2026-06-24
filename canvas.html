@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Canvas — Thesis Design Canvas</title>
+  <link rel="stylesheet" href="assets/css/styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap">
+      <a class="brand" href="index.html" data-i18n="site.title">Thesis Design Canvas</a>
+      <nav class="nav">
+        <a href="index.html" data-i18n="nav.home">Start</a>
+        <a href="canvas.html" class="active" data-i18n="nav.canvas">Canvas</a>
+        <a href="topics.html" data-i18n="nav.topics">Themen</a>
+        <a href="ai-guide.html" data-i18n="nav.ai">KI-Anleitung</a>
+        <a href="principles.html" data-i18n="nav.principles">Grundsätze</a>
+        <button class="lang-btn" data-lang-toggle data-i18n="nav.switch">English</button>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <div class="wrap">
+      <section class="section">
+        <h2 data-i18n="canvas.title">Thesis Design Canvas</h2>
+        <p class="lede" data-i18n="canvas.intro"></p>
+      </section>
+
+      <div id="topic-note" class="topic-note" style="display:none" data-i18n="canvas.useTopicNote"></div>
+
+      <div class="canvas-toolbar no-print">
+        <button class="btn small" id="act-print" data-i18n="canvas.actions.print">Drucken / als PDF</button>
+        <button class="btn ghost small" id="act-md" data-i18n="canvas.actions.md">Markdown export</button>
+        <button class="btn ghost small" id="act-json" data-i18n="canvas.actions.json">JSON sichern</button>
+        <button class="btn ghost small" id="act-import" data-i18n="canvas.actions.import">JSON laden</button>
+        <button class="btn ghost small" id="act-boiler" data-i18n="canvas.restore">Boilerplate-Gliederung einfügen</button>
+        <button class="btn ghost small" id="act-reset" data-i18n="canvas.actions.reset">Zurücksetzen</button>
+        <span class="spacer"></span>
+        <span class="save-hint" id="save-hint" style="opacity:.4" data-i18n="canvas.saved">Lokal gespeichert</span>
+      </div>
+
+      <div id="canvas-root"></div>
+    </div>
+  </main>
+
+  <footer class="site-footer no-print">
+    <div class="wrap">
+      <span data-i18n="footer.license"></span>
+      <a data-link="repo" href="#" data-i18n="footer.source">Quellcode auf GitHub</a>
+    </div>
+  </footer>
+
+  <script src="data/i18n.js"></script>
+  <script src="assets/js/i18n.js"></script>
+  <script src="assets/js/pages.js"></script>
+  <script src="assets/js/canvas.js"></script>
+</body>
+</html>

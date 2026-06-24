@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>KI-Anleitung — Thesis Design Canvas</title>
+  <link rel="stylesheet" href="assets/css/styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap">
+      <a class="brand" href="index.html" data-i18n="site.title">Thesis Design Canvas</a>
+      <nav class="nav">
+        <a href="index.html" data-i18n="nav.home">Start</a>
+        <a href="canvas.html" data-i18n="nav.canvas">Canvas</a>
+        <a href="topics.html" data-i18n="nav.topics">Themen</a>
+        <a href="ai-guide.html" class="active" data-i18n="nav.ai">KI-Anleitung</a>
+        <a href="principles.html" data-i18n="nav.principles">Grundsätze</a>
+        <button class="lang-btn" data-lang-toggle data-i18n="nav.switch">English</button>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <div class="wrap">
+      <section class="section">
+        <h2 data-i18n="ai.title">Mit KI zu sehr guten Ergebnissen</h2>
+        <p class="lede" data-i18n="ai.intro"></p>
+      </section>
+
+      <section class="section">
+        <div class="card" style="border-left:4px solid var(--accent-2)">
+          <h3 data-i18n="ai.localTitle">Du arbeitest lokal</h3>
+          <p data-i18n="ai.localBody"></p>
+        </div>
+      </section>
+
+      <section class="section">
+        <h2 data-i18n="ai.stepsTitle">In 5 Schritten</h2>
+        <ol class="ol-steps" id="guide-steps"></ol>
+      </section>
+
+      <section class="section">
+        <h2 data-i18n="ai.rulesTitle">Goldene Regeln</h2>
+        <ul class="rules" id="guide-rules"></ul>
+      </section>
+
+      <section class="section">
+        <h2 data-i18n="ai.critiquePromptTitle">Master-Prompt</h2>
+        <div class="prompt-block">
+          <div class="prompt" id="guide-critique"></div>
+          <button class="btn ghost small" data-copy-target="guide-critique" data-i18n="common.copy">Kopieren</button>
+        </div>
+      </section>
+
+      <section class="section">
+        <h2 data-i18n="ai.fieldPromptsTitle">Prompts pro Canvas-Feld</h2>
+        <p class="lede" data-i18n="ai.fieldPromptsBody"></p>
+        <p><a class="btn secondary" href="canvas.html" data-i18n="home.ctaCanvas">Canvas ausfüllen</a></p>
+      </section>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <span data-i18n="footer.license"></span>
+      <a data-link="repo" href="#" data-i18n="footer.source">Quellcode auf GitHub</a>
+    </div>
+  </footer>
+
+  <script src="data/i18n.js"></script>
+  <script src="assets/js/i18n.js"></script>
+  <script src="assets/js/pages.js"></script>
+</body>
+</html>
