@@ -1,5 +1,5 @@
 {
-  "_comment": "Kuratierter, anonymisierter Themen-Basket für Studierende. NUR Themen mit konkreter, benennbarer Datenbasis. Jede Karte ist handgeschrieben (studierendenseitig). 'source' verweist nur zur Provenienz auf eine ID in forschungsideen.json und wird NICHT veröffentlicht; Karten ohne 'source' sind direkt angefragte Ergänzungen. Pflege: siehe UPDATING.md.",
+  "_comment": "Kuratierter, anonymisierter Themen-Basket für Studierende. NUR Themen mit konkreter, benennbarer Datenbasis. Jede Karte ist handgeschrieben (studierendenseitig). 'source' verweist nur zur Provenienz auf eine ID in forschungsideen.json und wird NICHT veröffentlicht; Karten ohne 'source' sind direkt angefragte Ergänzungen. Pflege: basket.json bearbeiten, dann python3 tools/build_topics.py.",
   "version": "2.1",
   "research_lines": [
     { "id": "citizen-ai", "de": "Bürgerzentrierte & souveräne KI in der Verwaltung", "en": "Citizen-centred & sovereign AI in public administration" },
