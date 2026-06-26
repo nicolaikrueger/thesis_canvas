@@ -129,6 +129,58 @@ window.TOPICS = {
       }
     },
     {
+      "line": "egov-ozg",
+      "level": [
+        "Bachelor"
+      ],
+      "tags": [
+        "Deutschland-App",
+        "BMDS",
+        "Anforderungen",
+        "UX"
+      ],
+      "data": {
+        "de": "Öffentliche BMDS-Materialien zur Deutschland-App und eigene Anforderungs-/Akzeptanzerhebung (im Aufbau).",
+        "en": "Public BMDS materials on the Germany App and an own requirements/acceptance survey (in the making)."
+      },
+      "de": {
+        "title": "Deutschland-App (BMDS): Anforderungen und Design-Prinzipien",
+        "summary": "Die neue Deutschland-App soll Verwaltungsleistungen bündeln. Welche Anforderungen stellen Bürger:innen, und welche Design-Prinzipien folgen daraus?",
+        "scope": "Bachelor: Anforderungen erheben (Befragung oder Dokumentenanalyse) und zu Design-Prinzipien verdichten."
+      },
+      "en": {
+        "title": "Germany App (BMDS): requirements and design principles",
+        "summary": "The new Germany App is meant to bundle public services. Which requirements do citizens have, and which design principles follow from them?",
+        "scope": "Bachelor: gather requirements (survey or document analysis) and distil them into design principles."
+      }
+    },
+    {
+      "line": "egov-ozg",
+      "level": [
+        "Bachelor"
+      ],
+      "tags": [
+        "EUDI",
+        "Wallet",
+        "Akzeptanz",
+        "TAM/UTAUT"
+      ],
+      "data": {
+        "de": "Eigene standardisierte Befragung (Bekanntheit, Akzeptanz, Datenschutzbedenken; TAM/UTAUT).",
+        "en": "Own standardised survey (awareness, acceptance, privacy concerns; TAM/UTAUT)."
+      },
+      "de": {
+        "title": "EUDI-Wallet: Bekanntheit und Akzeptanz",
+        "summary": "Die europäische digitale Brieftasche (EUDI) kommt. Wie bekannt ist sie, und wovon hängen Nutzungsbereitschaft und Vertrauen ab?",
+        "scope": "Bachelor: Fragebogen und deskriptive Auswertung der Akzeptanzfaktoren."
+      },
+      "en": {
+        "title": "EUDI wallet: awareness and acceptance",
+        "summary": "The European digital identity wallet (EUDI) is coming. How well-known is it, and what does willingness to use and trust depend on?",
+        "scope": "Bachelor: questionnaire and descriptive analysis of acceptance factors."
+      }
+    },
+    {
       "line": "govtech-fin",
       "level": [
         "Bachelor",
@@ -258,6 +310,32 @@ window.TOPICS = {
       }
     },
     {
+      "line": "govtech-fin",
+      "level": [
+        "Bachelor"
+      ],
+      "tags": [
+        "Digitaler Euro",
+        "CBDC",
+        "Demokratie",
+        "Privatsphäre"
+      ],
+      "data": {
+        "de": "Öffentliche EZB-Materialien/Konsultation zum digitalen Euro und eigene Befragung zu demokratischen Implikationen.",
+        "en": "Public ECB materials/consultation on the digital euro and an own survey on democratic implications."
+      },
+      "de": {
+        "title": "Digitaler Euro und Demokratie",
+        "summary": "Ein digitaler Euro berührt Privatsphäre, Teilhabe und staatliche Kontrolle. Welche demokratischen Chancen und Risiken sehen Bürger:innen?",
+        "scope": "Bachelor: Dokumentenanalyse plus kleine Befragung zu Wahrnehmung und Bedenken."
+      },
+      "en": {
+        "title": "The digital euro and democracy",
+        "summary": "A digital euro touches privacy, participation and state control. Which democratic opportunities and risks do citizens see?",
+        "scope": "Bachelor: document analysis plus a small survey on perceptions and concerns."
+      }
+    },
+    {
       "line": "security",
       "level": [
         "Master"
@@ -284,5 +362,5 @@ window.TOPICS = {
       }
     }
   ],
-  "count": 10
+  "count": 13
 };
