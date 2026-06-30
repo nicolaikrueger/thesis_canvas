@@ -13,6 +13,11 @@ window.TOPICS = {
       "en": "E-government, OZG & interoperability"
     },
     {
+      "id": "smart-city",
+      "de": "Smart City & urbane Transformation",
+      "en": "Smart city & urban transformation"
+    },
+    {
       "id": "govtech-fin",
       "de": "GovTech-Markt & öffentliche IT",
       "en": "GovTech market & public-sector IT"
@@ -360,7 +365,33 @@ window.TOPICS = {
         "summary": "How transparent are dependencies in openly developed software, especially for AI components?",
         "scope": "Master: automated SBOM analysis, linked to the CRA and the AI Act."
       }
+    },
+    {
+      "line": "smart-city",
+      "level": [
+        "Bachelor"
+      ],
+      "tags": [
+        "Smart City",
+        "Urban Hub",
+        "KI",
+        "Bestandsaufnahme"
+      ],
+      "data": {
+        "de": "Öffentliche Projektdokumentation der Modellprojekte Smart Cities (Steckbriefe, Berichte).",
+        "en": "Public project documentation of the Smart City model projects (profiles, reports)."
+      },
+      "de": {
+        "title": "KI in Smart Cities und Urban Hubs: Bestandsaufnahme",
+        "summary": "Wo und wofür setzen deutsche Smart-City- und Urban-Hub-Projekte KI ein? Eine systematische Bestandsaufnahme der öffentlich geförderten Modellprojekte.",
+        "scope": "Bachelor: Projekte sichten, KI-Anwendungsfälle kategorisieren und in eine Übersicht verdichten."
+      },
+      "en": {
+        "title": "AI in smart cities and urban hubs: a survey",
+        "summary": "Where and for what do German smart-city and urban-hub projects use AI? A systematic survey of the publicly funded model projects.",
+        "scope": "Bachelor: review projects, categorise AI use cases and condense them into an overview."
+      }
     }
   ],
-  "count": 13
+  "count": 14
 };
