@@ -13,11 +13,6 @@ window.TOPICS = {
       "en": "E-government, OZG & interoperability"
     },
     {
-      "id": "smart-city",
-      "de": "Smart City & urbane Transformation",
-      "en": "Smart city & urban transformation"
-    },
-    {
       "id": "govtech-fin",
       "de": "GovTech-Markt & öffentliche IT",
       "en": "GovTech market & public-sector IT"
@@ -367,7 +362,7 @@ window.TOPICS = {
       }
     },
     {
-      "line": "smart-city",
+      "line": "egov-ozg",
       "level": [
         "Bachelor"
       ],
