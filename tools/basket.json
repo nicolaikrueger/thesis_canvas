@@ -9,10 +9,16 @@
   ],
   "topics": [
     {
-      "source": "I090", "line": "citizen-ai", "level": ["Bachelor", "Master"], "tags": ["LLM", "Kommunen", "Auffindbarkeit"],
+      "source": "I090", "line": "citizen-ai", "level": ["Bachelor"], "tags": ["ADI", "LLM", "Kommunen", "Auffindbarkeit"],
       "data": { "de": "Offener ADI-Datensatz und Code: 50 Kommunen × 6 Leistungen (eigener Datensatz, derzeit in Publikation).", "en": "Open ADI dataset and code: 50 municipalities × 6 services (own dataset, currently under publication)." },
-      "de": { "title": "Auffindbarkeit kommunaler Leistungen für KI-Assistenten (ADI)", "summary": "Finden LLM-Agenten auf kommunalen Serviceseiten alles, um eine Leistung zu starten? Ein reproduzierbarer Index, über mehrere Kommunen und Leistungen gemessen.", "scope": "Bachelor: Teilmenge an Kommunen/Leistungen auswerten. Master: Index erweitern und validieren." },
-      "en": { "title": "Discoverability of municipal services for AI assistants (ADI)", "summary": "Do LLM agents find everything on municipal service pages to start a service? A reproducible index, measured across municipalities and services.", "scope": "Bachelor: evaluate a subset of municipalities/services. Master: extend and validate the index." }
+      "de": { "title": "ADI anwenden: KI-Auffindbarkeit kommunaler Leistungen", "summary": "Der AI Discoverability Index (ADI) misst, wie gut ein KI-Assistent auf kommunalen Serviceseiten alle Informationen findet, um einen Vorgang zu starten. In dieser Arbeit wendest du den bestehenden ADI auf weitere Kommunen und Leistungen an und wertest die Ergebnisse aus.", "scope": "Bachelor: ADI auf eine zusätzliche Stichprobe an Kommunen/Leistungen anwenden und Muster herausarbeiten." },
+      "en": { "title": "Applying the ADI: AI discoverability of municipal services", "summary": "The AI Discoverability Index (ADI) measures how well an AI assistant finds all the information on municipal service pages needed to start a process. In this thesis you apply the existing ADI to further municipalities and services and analyse the results.", "scope": "Bachelor: apply the ADI to an additional sample of municipalities/services and identify patterns." }
+    },
+    {
+      "source": "I090", "line": "citizen-ai", "level": ["Master"], "tags": ["ADI", "Design Science", "Evaluation", "LLM"],
+      "data": { "de": "Offener ADI-Datensatz und Code als Ausgangsbasis; Erweiterung auf bis zu 200 Kommunen (derzeit in Publikation).", "en": "Open ADI dataset and code as a starting point; extension to up to 200 municipalities (currently under publication)." },
+      "de": { "title": "ADI weiterentwickeln und evaluieren", "summary": "Der AI Discoverability Index (ADI) bewertet die KI-Auffindbarkeit kommunaler Leistungen. Hier entwickelst du das Messinstrument methodisch weiter (z. B. Dimensionen, Skalierung, Automatisierung) und validierst es in einer größeren Evaluation.", "scope": "Master: Index-Design erweitern und verfeinern, Reliabilität prüfen (Intercoder), größere Stichprobe evaluieren." },
+      "en": { "title": "Extending and evaluating the ADI", "summary": "The AI Discoverability Index (ADI) rates the AI discoverability of municipal services. Here you develop the instrument further (e.g. dimensions, scaling, automation) and validate it in a larger evaluation.", "scope": "Master: extend and refine the index design, check reliability (intercoder), evaluate a larger sample." }
     },
     {
       "source": "I064", "line": "citizen-ai", "level": ["Bachelor", "Master"], "tags": ["Chatbots", "Kommunen", "Reifegrad"],
