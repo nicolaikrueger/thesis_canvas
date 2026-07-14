@@ -83,6 +83,33 @@ window.TOPICS = {
         "Master"
       ],
       "tags": [
+        "Souveräne KI",
+        "LLM",
+        "Open Weights",
+        "Benchmark"
+      ],
+      "data": {
+        "de": "Offene Modellgewichte und Pretraining-Tech-Report (Korpus-Statistiken, reproduzierbare Skripte) auf Hugging Face; eigene Testaufgaben aus dem Verwaltungskontext.",
+        "en": "Open model weights and pretraining tech report (corpus statistics, reproducible scripts) on Hugging Face; own test tasks from the public-administration context."
+      },
+      "de": {
+        "title": "Souveränes Sprachmodell für die Verwaltung testen (Soofi S)",
+        "summary": "Soofi S ist ein offenes, in Deutschland trainiertes deutsch-englisches Foundation Model (30B, Mixture-of-Experts/Mamba) aus einem Konsortium u. a. mit Fraunhofer und DFKI. Wie gut löst es typische Verwaltungsaufgaben, und wie grenzt es sich von anderen souveränen KI-Ansätzen ab?",
+        "scope": "Bachelor: definierte Aufgabenmenge aus dem Verwaltungsalltag, Modell gegen eine Referenz testen und Ergebnisse systematisch bewerten. Master: breiterer Benchmark plus Einordnung in die Souveränitätsdebatte."
+      },
+      "en": {
+        "title": "Testing a sovereign language model for public administration (Soofi S)",
+        "summary": "Soofi S is an open, Germany-trained German-English foundation model (30B, Mixture-of-Experts/Mamba) from a consortium including Fraunhofer and DFKI. How well does it handle typical administrative tasks, and how does it differ from other sovereign AI approaches?",
+        "scope": "Bachelor: a defined set of everyday administrative tasks, test the model against a reference and score the results systematically. Master: broader benchmark plus positioning in the sovereignty debate."
+      }
+    },
+    {
+      "line": "citizen-ai",
+      "level": [
+        "Bachelor",
+        "Master"
+      ],
+      "tags": [
         "Chatbots",
         "Kommunen",
         "Reifegrad"
@@ -442,5 +469,5 @@ window.TOPICS = {
       }
     }
   ],
-  "count": 16
+  "count": 17
 };
