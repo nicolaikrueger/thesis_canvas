@@ -239,25 +239,51 @@ window.TOPICS = {
         "Master"
       ],
       "tags": [
+        "GovTech",
+        "Startups",
+        "Marktkartierung",
+        "Anbieter"
+      ],
+      "data": {
+        "de": "Öffentliche Quellen: Anbieter-Websites, Handelsregister, Pressemitteilungen, Förder- und Vergabeinformationen.",
+        "en": "Public sources: provider websites, commercial register, press releases, funding and procurement information."
+      },
+      "de": {
+        "title": "GovTech-Anbieter und Startups in Deutschland kartieren",
+        "summary": "Wer bietet der Verwaltung neue digitale Lösungen an? Private Dienstleister und GovTech-Startups erfassen: Angebote, Geschäftsmodelle und Marktstruktur.",
+        "scope": "Bachelor: strukturierte Marktübersicht. Master: Markt- und Konzentrationsanalyse."
+      },
+      "en": {
+        "title": "Mapping GovTech providers and startups in Germany",
+        "summary": "Who offers public administration new digital solutions? Map private vendors and GovTech startups: offerings, business models and market structure.",
+        "scope": "Bachelor: structured market overview. Master: market and concentration analysis."
+      }
+    },
+    {
+      "line": "govtech-fin",
+      "level": [
+        "Bachelor",
+        "Master"
+      ],
+      "tags": [
         "IT-Dienstleister",
         "Zweckverbände",
         "AÖR",
-        "Kartierung",
-        "GovTech"
+        "Kommunale Rechenzentren"
       ],
       "data": {
-        "de": "Öffentliche Quellen: Websites, Handels- und Vereinsregister, Satzungen, Geschäfts- und Lageberichte, Pressemitteilungen.",
-        "en": "Public sources: websites, commercial and association registers, statutes, annual and management reports, press releases."
+        "de": "Öffentliche Quellen: Websites, Register, Satzungen, Geschäfts- und Lageberichte, Pressemitteilungen.",
+        "en": "Public sources: websites, registers, statutes, annual and management reports, press releases."
       },
       "de": {
         "title": "IT-Dienstleister und Zweckverbände der öffentlichen Verwaltung kartieren",
-        "summary": "Wer betreibt eigentlich die IT der Verwaltung? Kommunale Rechenzentren und Zweckverbände (AÖR) sowie Landes- und Bundes-IT-Dienstleister bundesweit erfassen: Trägerschaft, Rechtsform, Leistungsportfolio und Größe. Wie ist diese Landschaft aufgestellt, und was treiben die Akteure?",
-        "scope": "Bachelor: bundesweite Übersicht nach einheitlichem Erfassungsraster. Master: Markt- und Konzentrationsanalyse, Vergleich der Betriebsmodelle."
+        "summary": "Wer betreibt die IT der Verwaltung selbst? Kommunale Rechenzentren und Zweckverbände (AÖR) sowie Landes- und Bundes-IT-Dienstleister bundesweit erfassen: Trägerschaft, Rechtsform, Leistungsportfolio und Größe. Wie ist die Landschaft aufgestellt, und was treiben die Akteure?",
+        "scope": "Bachelor: bundesweite Übersicht nach einheitlichem Erfassungsraster. Master: Vergleich der Betriebsmodelle und Konsolidierungstrends."
       },
       "en": {
         "title": "Mapping public-sector IT providers and special-purpose associations",
-        "summary": "Who actually runs public administration's IT? Map municipal data centres and special-purpose associations (public-law entities) as well as state and federal IT providers across Germany: ownership, legal form, service portfolio and size. How is this landscape structured, and what are these actors doing?",
-        "scope": "Bachelor: nationwide overview using one common recording grid. Master: market and concentration analysis, comparison of operating models."
+        "summary": "Who runs public administration's IT in-house? Map municipal data centres and special-purpose associations (public-law entities) as well as state and federal IT providers across Germany: ownership, legal form, service portfolio and size. How is this landscape structured, and what are these actors doing?",
+        "scope": "Bachelor: nationwide overview using one common recording grid. Master: comparison of operating models and consolidation trends."
       }
     },
     {
@@ -416,5 +442,5 @@ window.TOPICS = {
       }
     }
   ],
-  "count": 15
+  "count": 16
 };
