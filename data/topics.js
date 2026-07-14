@@ -239,23 +239,25 @@ window.TOPICS = {
         "Master"
       ],
       "tags": [
-        "GovTech",
-        "Marktkartierung",
-        "Anbieter"
+        "IT-Dienstleister",
+        "Zweckverbände",
+        "AÖR",
+        "Kartierung",
+        "GovTech"
       ],
       "data": {
-        "de": "Öffentliche Quellen: Anbieter-Websites, Register, Pressemitteilungen.",
-        "en": "Public sources: provider websites, registers, press releases."
+        "de": "Öffentliche Quellen: Websites, Handels- und Vereinsregister, Satzungen, Geschäfts- und Lageberichte, Pressemitteilungen.",
+        "en": "Public sources: websites, commercial and association registers, statutes, annual and management reports, press releases."
       },
       "de": {
-        "title": "GovTech-Anbieter in Deutschland kartieren",
-        "summary": "Wer liefert die IT für die öffentliche Verwaltung? Systematische Kartierung von Inhouse-Anbietern, Dienstleistern und Startups.",
-        "scope": "Bachelor: strukturierte Übersicht. Master: Markt- und Konzentrationsanalyse."
+        "title": "IT-Dienstleister und Zweckverbände der öffentlichen Verwaltung kartieren",
+        "summary": "Wer betreibt eigentlich die IT der Verwaltung? Kommunale Rechenzentren und Zweckverbände (AÖR) sowie Landes- und Bundes-IT-Dienstleister bundesweit erfassen: Trägerschaft, Rechtsform, Leistungsportfolio und Größe. Wie ist diese Landschaft aufgestellt, und was treiben die Akteure?",
+        "scope": "Bachelor: bundesweite Übersicht nach einheitlichem Erfassungsraster. Master: Markt- und Konzentrationsanalyse, Vergleich der Betriebsmodelle."
       },
       "en": {
-        "title": "Mapping GovTech providers in Germany",
-        "summary": "Who supplies IT for public administration? A systematic map of in-house providers, vendors and startups.",
-        "scope": "Bachelor: structured overview. Master: market and concentration analysis."
+        "title": "Mapping public-sector IT providers and special-purpose associations",
+        "summary": "Who actually runs public administration's IT? Map municipal data centres and special-purpose associations (public-law entities) as well as state and federal IT providers across Germany: ownership, legal form, service portfolio and size. How is this landscape structured, and what are these actors doing?",
+        "scope": "Bachelor: nationwide overview using one common recording grid. Master: market and concentration analysis, comparison of operating models."
       }
     },
     {
