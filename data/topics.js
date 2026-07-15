@@ -94,13 +94,13 @@ window.TOPICS = {
       },
       "de": {
         "title": "Souveränes Sprachmodell für die Verwaltung testen (Soofi S)",
-        "summary": "Soofi S ist ein offenes, in Deutschland trainiertes deutsch-englisches Foundation Model (30B, Mixture-of-Experts/Mamba) aus einem Konsortium u. a. mit Fraunhofer und DFKI. Wie gut löst es typische Verwaltungsaufgaben, und wie grenzt es sich von anderen souveränen KI-Ansätzen ab?",
-        "scope": "Bachelor: definierte Aufgabenmenge aus dem Verwaltungsalltag, Modell gegen eine Referenz testen und Ergebnisse systematisch bewerten. Master: breiterer Benchmark plus Einordnung in die Souveränitätsdebatte."
+        "summary": "Soofi S ist ein offenes, in Deutschland trainiertes deutsch-englisches Foundation Model (30B, Mixture-of-Experts/Mamba) aus einem Konsortium u. a. mit Fraunhofer und DFKI. Wie gut löst es typische Verwaltungsaufgaben im Vergleich zu anderen offenen Modellen?",
+        "scope": "Bachelor: definierte Aufgabenmenge aus dem Verwaltungsalltag, Soofi S gegen gängige offene Modelle (z. B. Llama, Mistral, Qwen) testen und systematisch bewerten. Master: breiterer Benchmark plus Einordnung in die Souveränitätsdebatte."
       },
       "en": {
         "title": "Testing a sovereign language model for public administration (Soofi S)",
-        "summary": "Soofi S is an open, Germany-trained German-English foundation model (30B, Mixture-of-Experts/Mamba) from a consortium including Fraunhofer and DFKI. How well does it handle typical administrative tasks, and how does it differ from other sovereign AI approaches?",
-        "scope": "Bachelor: a defined set of everyday administrative tasks, test the model against a reference and score the results systematically. Master: broader benchmark plus positioning in the sovereignty debate."
+        "summary": "Soofi S is an open, Germany-trained German-English foundation model (30B, Mixture-of-Experts/Mamba) from a consortium including Fraunhofer and DFKI. How well does it handle typical administrative tasks compared with other open models?",
+        "scope": "Bachelor: a defined set of everyday administrative tasks, test Soofi S against common open models (e.g. Llama, Mistral, Qwen) and score the results systematically. Master: broader benchmark plus positioning in the sovereignty debate."
       }
     },
     {
